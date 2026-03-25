@@ -1,0 +1,25 @@
+[project]
+name = "complicity"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dill>=0.4.1",
+    "gdown>=5.2.1",
+    "ipykernel>=7.1.0",
+    "ipython>=9.9.0",
+    "matplotlib>=3.10.8",
+    "netcal>=1.3.5",
+    "numpy<2",
+    "pandas>=2.3.3",
+    "timm>=1.0.24",
+    "torch>=2.5,<2.7",
+    "tqdm>=4.67.1",
+    "transformers>=4.57.6",
+    "umap-learn>=0.5.11",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["source*"]
