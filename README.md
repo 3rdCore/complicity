@@ -2,7 +2,7 @@
 
 Code for the paper *A Compression Perspective on Simplicity Bias*
 
-We study whether **optimal compression** (via the Minimum Description Length principle) serves as a predictive theory of neural-network behaviour under different data-regime. The key insight is that simplicity bias is not a fixed property of a learner but a *data-dependent* preference: as the amount of training data grows, the MDL-optimal compressor shifts from simple spurious shortcuts to more predictive (but more complex) coding scheme.  We validate this prediction on a controlled semi-synthetic benchmark derived from Colored MNIST.
+We study whether **two-part optimal compression** (via the Minimum Description Length principle) serves as a predictive theory of neural-network behaviour under different data-regime. The key insight is that simplicity bias is not a fixed property of a learner but a *data-dependent* preference: as the amount of training data grows, the MDL-optimal compressor shifts from simple spurious shortcuts to more predictive (but more complex) coding scheme.  We validate this prediction on a controlled semi-synthetic benchmark derived from Colored MNIST.
 
 ---
 
