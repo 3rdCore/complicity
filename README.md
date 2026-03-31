@@ -96,6 +96,6 @@ scripts/
   title={A Compression Perspective on Simplicity Bias},
   author={Marty, Tom and Elmoznino, Eric and Gagnon, Leo and Kasetty, Tejas and Nishikawa-Toomey, Mizu and Mittal, Sarthak and Lajoie, Guillaume and Sridhar, Dhanya},
   journal={arXiv preprint arXiv:2603.25839},
-  year={2024}
+  year={2026}
 }
 ```
