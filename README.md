@@ -92,7 +92,7 @@ scripts/
 ## Citation
 
 ```bibtex
-@article{marty2024compression,
+@article{marty2026compression,
   title={A Compression Perspective on Simplicity Bias},
   author={Marty, Tom and Elmoznino, Eric and Gagnon, Leo and Kasetty, Tejas and Nishikawa-Toomey, Mizu and Mittal, Sarthak and Lajoie, Guillaume and Sridhar, Dhanya},
   journal={arXiv preprint arXiv:2603.25839},
